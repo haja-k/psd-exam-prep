@@ -10,7 +10,7 @@ Other sources of reference:
 ---
 ### Which of the following best describe continuous integration?
 
-- [] A software development practice used by integration teams to create best practice branching and merging strategies
-- [] A software development practice that continuously integrates feedback from users in the software design
-- [] A software development practice where developers all work on the same computer to assure a common codebase
+- [ ] A software development practice used by integration teams to create best practice branching and merging strategies
+- [ ] A software development practice that continuously integrates feedback from users in the software design
+- [ ] A software development practice where developers all work on the same computer to assure a common codebase
 - [x] A software development practice where developers integrate and verify their work frequently, often multiple times a day, to detect integration errors as quickly as possible
