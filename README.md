@@ -8,7 +8,11 @@ Other sources of reference:
 - [CertHero](https://www.certshero.com/scrum/psd/practice-test)
 - [Scrum Master UK](https://www.thescrummaster.co.uk/quizzes/professional-scrum-developer-psd-practice-assessment/)
 
----
+## ☄️ Tips
+- pay attention to keywords. e.g: "sprint backlog" vs "product backlog"
+- memorize basic timeboxed events 
+
+## ☄️ Q&A
 ### Which of the following best describe continuous integration?
 - [ ] A software development practice used by integration teams to create best practice branching and merging strategies
 - [ ] A software development practice that continuously integrates feedback from users in the software design
@@ -149,6 +153,6 @@ Other sources of reference:
 - [x] Reduce effort and risk when integrating changes
 - [x] Less back-tracking to discover where things went wrong, so you can spend more time building features
 
-During the Daily Scrum, the Developers must answer the "3 Questions".
+### During the Daily Scrum, the Developers must answer the "3 Questions".
 - [x] False
 - [ ] True
