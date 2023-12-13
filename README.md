@@ -181,7 +181,7 @@ Metrics that do not measure code quality: Code Coverage, Lines of Code
 - [ ] When the Tech Lead allows the Developers to show their work
 - [x] Anytime the Product Owner asks
 
-Which of the following are code metrics? Pick all that apply
+### Which of the following are code metrics? Pick all that apply
 
 - [x] Code Coverage
 - [ ] Automated build
@@ -267,3 +267,10 @@ Which of the following are code metrics? Pick all that apply
 - [x] None
 - [ ] The Sprint Retrospective
 - [ ] The Daily Scrum
+
+### Which of the following are architecture spikes? Pick all that apply
+
+- [x] A quick and dirty implementation
+- [x] A prototype which will be thrown away
+- [ ] A plan for all required architectures of the product
+- [ ] A comprehensive architecture implementation
