@@ -12,6 +12,10 @@ Other sources of reference:
 - pay attention to keywords. e.g: "sprint backlog" vs "product backlog"
 - memorize basic timeboxed events 
 
+There are many code metrics. Some of them measure code quality and others just prepare information about code situations.
+Metrics that measure code quality: Class Coupling, Depth of Inheritance, Efferent Coupling, Afferent Coupling, Instability Index, Cyclomatic Complexity, Maintainability Index.
+Metrics that do not measure code quality: Code Coverage, Lines of Code 
+
 ## ☄️ Q&A
 ### Which of the following best describe continuous integration?
 - [ ] A software development practice used by integration teams to create best practice branching and merging strategies
@@ -156,3 +160,110 @@ Other sources of reference:
 ### During the Daily Scrum, the Developers must answer the "3 Questions".
 - [x] False
 - [ ] True
+
+### Which of the following is true about black-box testing?
+- [ ] The internal structure of the item being tested is known to the tester
+- [ ] The tester can see inside the component or system under test
+- [x] The tester cannot see inside the component or system under test
+- [x] The internal structure of the item being tested is not known to the tester
+- [x] Tests that are done can be either functional or non-functional
+
+### Which one is NOT a Test Double?
+- [ ] Test Stub
+- [ ] Mock Object
+- [x] Two combined Unit Tests
+- [ ] Test Spy
+
+### When can the Product Owner see the Developers’ work? Pick 1
+
+- [ ] Just at the Sprint Review
+- [ ] Whenever the Developers are ready
+- [ ] When the Tech Lead allows the Developers to show their work
+- [x] Anytime the Product Owner asks
+
+Which of the following are code metrics? Pick all that apply
+
+- [x] Code Coverage
+- [ ] Automated build
+- [x] Class Coupling
+- [ ] Test Doubles
+- [x] Lines of Code
+
+ ### What is Pair Programming? Pick 1
+
+- [ ] Working as a pair which one developer has the control of the mouse and other has the keyboard
+- [ ] Developing a feature on two workstations simultaneously
+- [ ] A back-end developer and a front-end developer work on a feature to finish it as soon as possible
+- [ ] Developing code with two teams simultaneously
+- [x] Working as a pair which one developer writes code while the other reviewing the code
+
+### Who creates the Sprint Backlog? Pick 1
+
+- [ ] The Product Owner
+- [ ] The Scrum Master
+- [ ] The Developers
+- [x] The Scrum Team
+
+### Which language is usually used in BDD? Pick 1
+
+- [ ] Native language
+- [x] Ubiquitous language
+- [ ] Tongue language
+- [ ] Technical language
+
+### How much effort should be consumed for the Product Backlog Refinement? Pick 1
+
+- [x] It is context-based so whatever needed the Scrum Team should consume
+- [ ] As minimum as possible
+- [ ] The Scrum Master decides it
+- [ ] It should not consume more than 10% of the Developers capacity
+
+### What are the duties of the Developers in a Scrum Team? Pick 2
+
+- [ ] Removing impediments
+- [x] Resolving Team internal conflicts
+- [x] Making technical decisions
+- [ ] Assigning the value to the Product Backlog Items (this is product owner's job)
+
+### Which are the attributes of a good unit test? Pick all that apply
+
+- [x] Asserts the results of code
+- [x] Is well‐factored and as small as possible
+- [x] Tests and asserts edge cases and different ranges of data
+- [x] Does not have side effects
+- [x] Runs fast
+
+### Who is the owner of the Sprint Backlog? Pick 1
+
+- [ ] There is no such ownership
+- [ ] The Scrum Master
+- [x] The Developers
+- [ ] The Product Owner
+
+### Which is NOT true about the Lines of Code metric? Pick 1
+
+- [ ] A high count might indicate that a type or method is doing too much work
+- [x] It is explained via percentage
+- [ ] It isn’t a code quality metric
+- [ ] A high count might be a warning that code will be hard to maintain
+
+### What is the usual comparison of average item size in the Product Backlog and Sprint Backlog? Pick 1
+
+- [x] Product Backlog Items in the Product Backlog are usually larger than the Items in the Sprint Backlog
+- [ ] Product Backlog Items usually have the same size in both the Product Backlog and the Sprint Backlog
+- [ ] Product Backlog Items in the Product Backlog are usually smaller than the Items in the Sprint Backlog
+- [ ] Such a comparison does not make sense
+
+### What would be the reaction of the Developers in the middle of the Sprint when they find they have overcommitted? Pick 1
+
+- [ ] They extend the Sprint duration
+- [x] They negotiate with the Product Owner about the scope of the Sprint Backlog Items
+- [ ] They can add new Team members to the Team
+- [ ] They should ask the Product Owner to cancel the Sprint
+
+### Which Scrum events can consume more time rather than their time-box if there are 9 Developers in the Team? Pick 1
+
+- [ ] The Sprint Review
+- [x] None
+- [ ] The Sprint Retrospective
+- [ ] The Daily Scrum
