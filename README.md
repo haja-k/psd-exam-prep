@@ -4,6 +4,8 @@ Hey folks! These cool questions are sourced from various quiz sites on the inter
 Just to clarify, I don't claim ownership of any of these. I just compile them together to help me study. Feel free to dive into my notes and enjoy the learning journey. Let's make studying fun and ace that exam together! 🚀
 
 Other sources of reference:
+- [100 Question Dumps](https://www.dumpsbase.com/freedumps/master-the-professional-scrum-developer-psd-with-our-psd-i-exam-dumps.html#:~:text=Based%20on%20%22Sprint%207%20Burndown,the%20end%20of%20the%20Sprint.)
+- [Scrum School](https://elearning.scrumschool.org/9acde63366441c5f14r1010d3787/)
 - [Flash Cards](https://quizlet.com/745324300/scrum-questions-fml-flash-cards/)
 - [CertHero](https://www.certshero.com/scrum/psd/practice-test)
 - [Scrum Master UK](https://www.thescrummaster.co.uk/quizzes/professional-scrum-developer-psd-practice-assessment/)
